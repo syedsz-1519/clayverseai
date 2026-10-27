@@ -1,0 +1,6 @@
+{
+  "name": "Clayverse AI",
+  "description": "Multilingual interactive AI, ML and GenAI learning platform for South Asia in 8 regional languages with mind maps, interactive neural network visualizer, and zero-jargon glossaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
